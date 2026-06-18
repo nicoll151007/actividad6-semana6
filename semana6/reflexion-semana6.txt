@@ -1,0 +1,8 @@
+Las plataformas tecnológicas deben recibir reportes e información 
+de forma estructurada porque esto facilita la organización y el
+ análisis de los datos enviados por los ciudadanos. Cuando la
+información se registra de manera ordenada, las entidades pueden
+identificar problemas con mayor rapidez y tomar decisiones más
+efectivas. Además, se reduce el riesgo de errores o pérdida de
+ información importante. Los reportes estructurados permiten
+ clasificar las solicitudes según su tipo, prioridad o ubicación.

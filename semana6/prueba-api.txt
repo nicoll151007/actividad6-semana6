@@ -1,0 +1,7 @@
+la respuesta esperada fue:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "María",
+  "mensaje": "Hola comunidad"
+}
